@@ -4,9 +4,9 @@
 
 #include "Adafruit_MQTT_Client.h"
 
-#define WLAN_SSID       "IOTLAB"
+#define WLAN_SSID       "xxxxxxxxxxxxxxxxx"
 
-#define WLAN_PASS       "Rabindranath@Tagore1234#"
+#define WLAN_PASS       "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 #define AIO_SERVER      "io.adafruit.com"
 
